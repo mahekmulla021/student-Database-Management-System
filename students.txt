@@ -1,0 +1,11 @@
+101,mohit,cse,7.5
+102,mahek,cse,8.5
+103,veda,ec,7.4
+104,riya,mech,8.3
+105,sachin,civil,8.9
+106,faiza,ec,7.4
+107,john,mech,9.0
+108,joy,cse,9.3
+109,anushka,civil,6.8
+110,honey,cse,8.6
+111,roshan,ec,7.0
